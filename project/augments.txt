@@ -1,0 +1,621 @@
+AFK
+Disabled
+	You cannot perform actions for the next 3 rounds. Afterwards, gain 20 gold.
+Assassin Heart
+Disabled
+	Your team counts as having 1 additional Assassin. Gain a Kayn.
+Astral Heart
+Disabled
+	Your team counts as having 1 additional Astral. Gain a Nami.
+Axiom Arc I
+Disabled
+	Your units gain 25 Mana on kill.
+Band of Thieves I
+Disabled
+	Gain 1 Thief's Gloves.
+Best Friends I
+Disabled
+	Your units that start combat only adjacent to each other gain 10% Attack Speed and 15 Armor.
+Big Friend
+Disabled
+	Your units that start combat next to a unit with over 2000 Health take 10% less damage for the rest of combat.
+Bruiser Heart
+Disabled
+	Your team counts as having 1 additional Bruiser. Gain a Shen.
+Built Different I
+Disabled
+	Your units with no Traits active gain 250-400 Health and 40-70% Attack Speed. (based on current Stage)
+Cannoneer Heart
+Disabled
+	Your team counts as having 1 additional Cannoneer. Gain a Tristana.
+Cavalier Heart
+Disabled
+	Your team counts as having 1 additional Cavalier. Gain a Lillia.
+Celestial Blessing I
+Disabled
+	Your units heal for 12% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 300 Health.
+Cybernetic Implants I
+Disabled
+	Your champions holding an item gain 100 Health and 8 Attack Damage.
+Cybernetic Shell I
+Disabled
+	Your champions holding an item gain 100 Health and 20 Armor.
+Cybernetic Uplink I
+Disabled
+	Your champions holding an item gain 100 Health and restore 2 Mana per second.
+Double Trouble I
+Disabled
+	If you have exactly 2 copies of a champion on your board, they both gain 22 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.
+Electrocharge I
+Disabled
+	When your units receive critical strikes, they deal 50-110 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).
+Evoker Heart
+Disabled
+	Your team counts as having 1 additional Evoker. Gain a Lulu.
+Exiles I
+Disabled
+	Your units that start combat with no adajacent allies gain a 25% maximum Health shield for 10 seconds.
+Featherweights I
+Disabled
+	Your 1 and 2 cost champions gain 25% Attack Speed and Move Speed.
+First Aid Kit
+Disabled
+	All healing and shielding on your units is increased by 25%.
+Guardian Heart
+Disabled
+	Your team counts as having 1 additional Guardian. Gain a Thresh.
+Guild Heart
+Disabled
+	Your team counts as having 1 additional Guild. Gain a Twitch.
+Item Grab Bag I
+Disabled
+	Gain 1 random completed item.
+Jade Crest
+Disabled
+	Gain a Jade Emblem and a Ashe.
+Lategame Specialist
+Disabled
+	Gain 45 gold when you reach Level 9.
+Luden's Echo I
+Disabled
+	When your units cast and deal Ability damage, the first target hit and a nearby enemy take 40-130 (based on current Stage) magic damage.
+Mage Heart
+Disabled
+	Your team counts as having 1 additional Mage. Gain a Nami.
+Makeshift Armor I
+Disabled
+	Your units with no items gain 30 Armor and Magic Resist.
+Meditation I
+Disabled
+	Your units without items equipped restore 4 Mana per second.
+Mirage Heart
+Disabled
+	Your team counts as having 1 additional Mirage. Gain a Yone.
+Mystic Heart
+Disabled
+	Your team counts as having 1 additional Mystic. Gain a Nami.
+Pandora's Items
+Disabled
+	Gain a random component. At the start of each round, items on your bench are randomized (excluding Tactician's Crown, Spatula, and consumables).
+Preparation I
+Disabled
+	Units on your bench gain 6 Attack Damage and Ability Damage every round, up to 24.
+Ragewing Heart
+Disabled
+	Your team counts as having 1 additional Ragewing. Gain a Shen.
+Recombobulator
+Disabled
+	Champions on your board permanently transform into random champions that cost 1 more. Gain 2 Magnetic Removers.
+Revel Heart
+Disabled
+	Your team counts as having 1 additional Revel. Gain a Jinx.
+Scalescorn Heart
+Disabled
+	Your team counts as having 1 additional Scalescorn. Gain a Braum.
+Second Wind I
+Disabled
+	After 10 seconds of combat, your units heal 40% of their missing Health.
+Shapeshifter Heart
+Disabled
+	Your team counts as having 1 additional Shapeshifter. Gain a Gnar.
+Shimmerscale Crest
+Disabled
+	Gain a Shimmerscale Emblem and a Kayn.
+Shrug It Off
+Disabled
+	Bruisers regenerate 2.5% of their maximum Health each second. Gain a Sejuani.
+Stand United I
+Disabled
+	Your units gain 1 Attack Damage and Ability Power per Trait active across your army.
+Swiftshot Heart
+Disabled
+	Your team counts as having 1 additional Swiftshot. Gain a Twitch.
+Tempest Heart
+Disabled
+	Your team counts as having 1 additional Tempest. Gain a Qiyana.
+Thrill of the Hunt I
+Disabled
+	Your units heal 400 Health on kill.
+Tiny Titans
+Disabled
+	Your Tactician heals 30 Health, grows larger, and has 130 maximum Health.
+TriForce I
+Disabled
+	Your Tier 3 champions gain 133 Health, 13 starting Mana, and 13% Attack Speed.
+Warrior Heart
+Disabled
+	Your team counts as having 1 additional Warrior. Gain a Yone.
+Weakspot I
+Disabled
+	Your units' attacks ignore 20% of the target's Armor and reduce healing received by 50% for 3 seconds.
+Whispers Heart
+Disabled
+	Your team counts as having 1 additional Whispers. Gain a Thresh.
+Ancient Archives I
+Disabled
+	Gain 1 Tome of Traits.
+Ascension
+Disabled
+	After 15 seconds of combat, your units deal 50% more damage.
+Assassin Crest
+Disabled
+	Gain an Assassin Emblem and a Kayn.
+Axiom Arc II
+Disabled
+	Your units gain 40 Mana on kill.
+Beast's Den
+Disabled
+	Units that start combat next to at least 2 Shapeshifters gain 35% Attack Speed and Move Speed. Shapeshifters always gain this bonus. Gain a Gnar.
+Best Friends II
+Disabled
+	Your units that start combat only adjacent to each other gain 15 Attack Speed and 25 Armor.
+Better Together
+Disabled
+	Aura items that buff your team have their effects increased by 33%. Gain a Locket of the Iron Solari.
+Big Friend II
+Disabled
+	Your units that start combat next to a unit with over 2000 Health take 18% less damage for the rest of combat.
+Blue Battery
+Disabled
+	After casting their Ability, your units restore 20 Mana.
+Bruiser Crest
+Disabled
+	Gain a Bruiser Emblem and a Taric.
+Built Different II
+Disabled
+	Your units with no Traits active gain 300-600 Health and 50-80% Attack Speed. (based on current Stage)
+Calculated Loss
+Disabled
+	After losing your combat, gain 2 gold and a free Shop refresh.
+Cannoneer Crest
+Disabled
+	Gain a Cannoneer Emblem and a Jinx.
+Cavalier Crest
+Disabled
+	Gain a Cavalier Emblem and a Sejuani.
+Celestial Blessing II
+Disabled
+	Your units heal for 20% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 450 Health.
+Clear Mind
+Disabled
+	If you have no champions on your bench at the end of a round, gain 3 experience points.
+Cluttered Mind
+Disabled
+	If your bench is full at the end of a round, gain 4 experience points.
+Combat Training I
+Disabled
+	Your Champions permanently gain 1 Attack Damage every time they kill an enemy unit. Champions start with 8 Attack Damage.
+Component Grab Bag
+Disabled
+	Gain 3 random item components.
+Cutthroat
+Disabled
+	Assassins Mana-Reave the first unit they attack, increasing their maximum Mana by 50% until they cast. Assassins deal 10% more damage against Mana-Reaved targets. Gain a Qiyana.
+Cybernetic Implants II
+Disabled
+	Your champions holding an item gain 150 Health and 15 Attack Damage.
+Cybernetic Shell II
+Disabled
+	Your champions holding an item gain 150 Health and 30 Armor.
+Cybernetic Uplink II
+Disabled
+	Your champions holding an item gain 150 Health and restore 3 Mana per second.
+Devastating Charge
+Disabled
+	Cavalier's first attack after charging deals 85 magic damage, increased by 1% for each Armor and Magic Resist they have. Gain a Lillia.
+Double Trouble II
+Disabled
+	If you have exactly 2 copies of a champion on your board, they both gain 33 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.
+Dragon Alliance
+Disabled
+	The Dragon trait remains active regardless of how many Dragons you have. Dragons gain 60 Armor and Magic Resist. Gain a random Tier 4 Dragon.
+Dragon Horde
+Disabled
+	The Dragon trait remains active regardless of how many Dragons you have. Dragons gain 30 Attack Damage and Ability Power. Gain a random Tier 4 Dragon.
+Dragonmancer Crest
+Disabled
+	Gain a Dragonmancer Emblem and an Ashe.
+Electrocharge II
+Disabled
+	When your units receive critical strikes, they deal 85-145 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).
+Essence Theft
+Disabled
+	Evoker's attacks steal 5 Mana from their target. Gain a Lulu.
+Eternal Protection
+Disabled
+	When one of your Jade champions would die, the nearest Jade Statue protects them, losing 70% of its max Health and transferring 200% of that amount to the champion.. Gain an Ashe.
+Evoker Crest
+Disabled
+	Gain an Evoker Emblem and a Lulu.
+Exiles II
+Disabled
+	Your units that start combat with no adajacent allies gain a 35% maximum Health shield for 10 seconds.
+Eye of the Storm
+Disabled
+	At the start of combat, the unit in the center of the board gains 45 Ability Power, increased to 135 after Tempest lightning strikes. Gain a Qiyana.
+Featherweights II
+Disabled
+	Your 1 and 2 cost champions gain 35% Attack Speed and Move Speed.
+First Aid Kit II
+Disabled
+	All healing and shielding on your units is increased by 35%.
+Future Sight I
+Disabled
+	Know who you will fight next. Gain a Zephyr.
+Gadget Expert
+Disabled
+	Direct Damage items deal 33% more damage as true damage. Gain a Statikk Shiv.
+Gear Upgrades
+Disabled
+	Guild champions holding an item gain 25 Armor and another 250% of their Guild bonus. Gain a Twitch.
+Guardian Crest
+Disabled
+	Gain a Guardian Emblem and a Braum.
+Guild Crest
+Disabled
+	Gain a Guild Emblem and a Twitch.
+Hallucinate
+Disabled
+	Mirage champions take 90% less damage for the first 6 seconds of combat. Gain a Yone.
+Heroic Presence
+Disabled
+	Guardians taunt all enemies every 2 seconds. Enemies that attack a Guardian's shield take magic damage equal to 7% of the shielded unit's max Health (up to once per second). Gain a Thresh.
+Hot Shot
+Disabled
+	Cannoneer's cannon shots burn their targets, dealing 6% of the target's maximum Health as true damage over 2 seconds, and reducing healing by 50% for the duration of the burn. Gain a Tristana.
+Hustler
+Disabled
+	If you have less than 20 gold at the end of a round, gain 2 gold.
+Inspire
+Disabled
+	When the Dragonmancer Hero gets a takedown, champions that share a trait with the Dragonmancer Hero gain 70% Attack Speed for 3 seconds. Gain a Ashe.
+Intercosmic Gifts
+Disabled
+	Astral Orbs have a 100% chance to spawn a smaller orb that contains bonus loot. Gain a Nami.
+Jade Heart
+Disabled
+	Your team counts as having 1 additional Jade. Gain a Gnar.
+Jeweled Lotus
+Disabled
+	Magic and true damage from your units' Abilities can critically strike. Your units gain 25% Critical Strike Chance.
+Last Stand
+Disabled
+	The first time you would die, instead drop to 1 Health. After this effect triggers, your units gain 200 Health, 20 Armor and Magic Resist, and 20% Omnivamp.
+Loot Master
+Disabled
+	Gain a random component every 4 player combat rounds when you have at least Guild (2) active. Gain a Twitch.
+Luden's Echo II
+Disabled
+	When your units cast and deal Ability damage, the first target hit and a nearby enemy take 55-160 (based on current Stage) magic damage.
+Mage Conference
+Disabled
+	While the Mage trait is active, a random Mage portals onto your bench after combat with a player. Gain a Lillia.
+Mage Crest
+Disabled
+	Gain a Mage Emblem and a Vladimir.
+Makeshift Armor II
+Disabled
+	Your units with no items gain 45 Armor and Magic Resist.
+Meditation II
+Disabled
+	Your units without items equipped restore 6 Mana per second.
+Metabolic Accelerator
+Disabled
+	Your Tactician moves faster and heals 2 Health after a PVP round.
+Mirage Crest
+Disabled
+	Gain a Mirage Emblem and a Nunu.
+Pandora's Bench
+Disabled
+	Gain 5 gold. At the start of every turn, Champions on the 3 rightmost bench slots transform into random champions of the same cost.
+Party Favors
+Disabled
+	Gain 1 gold for every 6 firecrackers launched by Revel champions each combat. Additionally, gain a special prize the first time 100 total firecrackers are launched. Gain a Jinx.
+Party Time!
+Disabled
+	After Revels score a takedown, they gain 80% Attack Speed for 4 seconds. Gain a Jinx.
+Penitence
+Disabled
+	Enemies are disarmed for 2.5 seconds the first time they attack a Jade Statue or are damaged by a Jade Statue's explosion. Gain a Gnar.
+Personal Training
+Disabled
+	At the end of combat, Champions that started combat adjacent to Bruiser permanently gain 40 Health, increased by 20 if they survived. Gain a Shen.
+Phony Frontline
+Disabled
+	Gain 2 Target Dummies.
+Portable Forge
+Disabled
+	Open an Armory and choose 1 of 3 unique Artifacts crafted by Ornn.
+Preparation II
+Disabled
+	Units on your bench gain 7 Attack Damage and Ability Damage every round, up to 28.
+Press the Attack
+Disabled
+	Your Swiftshots' attacks apply a stack on their target for 5 seconds. Every third stack consumes all stacks to deal true damage equal to 4% of the target's maximum Health. Gain a Twitch.
+Ragewing Crest
+Disabled
+	Gain a Ragewing Emblem and a Kayn.
+Reckless Spending
+Disabled
+	If you purchase both XP and a Shop Refresh during the Planning Phase, Shimmerscale champions and Champions having a Shimmerscale item gain 40% damage for the next combat phase. Gain a Kayn.
+Revel Crest
+Disabled
+	Gain a Revel Emblem and a Jinx.
+Rich Get Richer
+Disabled
+	Gain 10 gold. Your maximum interest is increased to 7.
+Rich Get Richer+
+Disabled
+	Gain 18 gold. Your maximum interest is increased to 7.
+Ricochet
+Disabled
+	Cannoneer's cannon shots bounce once, dealing 33% less damage. Gain a Tristana.
+Salvage Bin
+Disabled
+	Gain a random completed item. Selling champions breaks apart their full items into components (excluding Tactician's Crown).
+Scalescorn Crest
+Disabled
+	Gain a Scalescorn Emblem and a Braum.
+Scorch
+Disabled
+	Every 5th instance of Ragewing champion's damage deals 20% more damage and is converted to true damage. Gain a Sena.
+Second Wind II
+Disabled
+	After 10 seconds of combat, your units heal 60% of their missing Health.
+Shimmerscale Heart
+Disabled
+	Your team counts as having 1 additional Shimmerscale. Gain a Kayn.
+Smoke Bomb
+Disabled
+	The first time Assassins drops to 70% health, they briefly enter stealth, becoming untargetable and shedding all negative effects. Any excess damage is reduced by 60%. Gain a Talon.
+Stand United II
+Disabled
+	Your units gain 2 Attack Damage and Ability Power per Trait active across your army.
+Sunfire Board
+Disabled
+	At the start of combat, burn all enemies for 15% of their maximum Health over 15 seconds and reduce healing received by 50%.
+Swiftshot Crest
+Disabled
+	Gain a Swiftshot Emblem and a Ashe.
+Tantrum
+Disabled
+	After casting their first Ability, Ragewings restore 100% of their maximum Rage.
+Tempest Crest
+Disabled
+	Gain a Tempest Emblem and a Qiyana.
+Three's Company
+Disabled
+	Gain 3 random 3-cost champions.
+Thrill of the Hunt II
+Disabled
+	Your units heal 700 Health on kill.
+Tiamat
+Disabled
+	Warrior's additional attacks deal 50% of their damage to enemies in a 1-hex area around their target. Gain a Yone.
+Titanic Strength
+Disabled
+	Bruisers gain 1.5% of their Health as Attack Damage. Gain a Tahm Kench.
+Trade Sector
+Disabled
+	Gain a free Shop refresh each round.
+Trade Sector+
+Disabled
+	Gain a free Shop refresh each round. Gain 8 golds.
+TriForce II
+Disabled
+	Your Tier 3 champions gain 233 Health, 23 starting Mana, and 23% Attack Speed.
+True Twos
+Disabled
+	Gain 1 random 2-star Tier 1 champions and 1 random 2-star Tier 2 champion.
+Urf's Grab Bag I
+Disabled
+	Gain 1 Spatula and 1 random item component.
+Warrior Crest
+Disabled
+	Gain a Warrior Emblem and a Shen.
+Whispers Crest
+Disabled
+	Gain a Whispers Emblem and a Thresh.
+Ancient Archives II
+Disabled
+	Gain 2 Tome of Traits.
+Assassin Crown
+Disabled
+	Gain an Assassin Emblem, a Hand of Justice, and a Diana.
+Band of Thieves II
+Disabled
+	Gain 2 Thief's Gloves.
+Best Friends III
+Disabled
+	Your units that start combat only adjacent to each other gain 20% Attack Speed and 35 Armor.
+Binary Airdrop
+Disabled
+	Your champions equipped with 2 items temporarily gain a random completed item at the start of combat.
+Bruiser Crown
+Disabled
+	Gain a Bruiser Emblem, a Redemption, and an Sylas.
+Built Different III
+Disabled
+	Your units with no Traits active gain 400-700 Health and 60-90% Attack Speed. (based on current Stage)
+Cannoneer Crown
+Disabled
+	Gain a Cannoneer Emblem, a Runaan's Hurricane, and a Tristana.
+Cavalier Crown
+Disabled
+	Gain a Cavalier Emblem, a Redemption, and a Nunu.
+Cavalier Unity
+Disabled
+	The Cavalier trait grants its bonuses to all of your Champions. This does not increase your number of Cavaliers. Gain a Sejuani.
+Celestial Blessing III
+Disabled
+	Your units heal for 35% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 600 Health.
+Combat Training II
+Disabled
+	Your Champions permanently gain 3 Attack Damage every time they kill an enemy unit. Champions start with 15 Attack Damage.
+Cruel Pact
+Disabled
+	Buying XP costs 6 Health instead of gold. But Heal 3 Health after a round.
+Cursed Crown
+Disabled
+	Gain +2 maximum team size, but take 100% increased player damage.
+Cybernetic Implants III
+Disabled
+	Your champions holding an item gain 250 Health and 25 Attack Damage.
+Cybernetic Shell III
+Disabled
+	Your champions holding an item gain 250 Health and 40 Armor.
+Cybernetic Uplink III
+Disabled
+	Your champions holding an item gain 250 Health and restore 4 Mana per second.
+Double Trouble III
+Disabled
+	If you have exactly 2 copies of a champion on your board, they both gain 44 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.
+Dragonmancer Soul
+Disabled
+	Gain a Dragonmancer Emblem, a Hand of Justice, and a Lee Sin.
+Electrocharge III
+Disabled
+	When your units receive critical strikes, they deal 115-235 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).
+Evoker Crown
+Disabled
+	Gain an Evoker Emblem, a Spear of Shojin, and an Anivia.
+Exiles III
+Disabled
+	Your units that start combat with no adajacent allies gain a 50% maximum Health shield for 10 seconds.
+Featherweights III
+Disabled
+	Your 1 and 2 cost units gain 60% Attack Speed and Move Speed.
+Future Sight II
+Disabled
+	Know who you fight next. Gain a Radiant Zephyr.
+Guardian Crown
+Disabled
+	Gain a Guardian Emblem, a Sunfire Cape, and a Braum.
+Guild Crown
+Disabled
+	Gain a Guild Emblem, a Giant Slayer and a Ryze.
+High End Shopping
+Disabled
+	Champions appear in your Shop as if you were 1 level higher. Gain 10 gold.
+High Roller
+Disabled
+	Gain 3 Loaded Dice and 8 gold.
+Item Grab Bag II
+Disabled
+	Gain 2 random completed items and 2 Reforgers.
+Jade Soul
+Disabled
+	Your team counts as having 1 additional Jade. Gain an Titan's Resolve and a Gnar.
+Level Up!
+Disabled
+	When you buy experience points, gain an additional 3. You can now reach level 10.
+Living Forge
+Disabled
+	Gain a random Ornn item now and after every 10 player combats.
+Luden's Echo III
+Disabled
+	When your units cast and deal Ability damage, the first target hit and a nearby enemy take 90-240 (based on current Stage) magic damage.
+Mage Crown
+Disabled
+	Gain a Mage Emblem, a Spear of Shojin, and a Ryze.
+Makeshift Armor III
+Disabled
+	Your units with no items gain 65 Armor and Magic Resist.
+March of Progress
+Disabled
+	Gain 5 bonus experience points per round. You can no longer use gold to level up.
+Meditation III
+Disabled
+	Your units without items equipped restore 8 Mana per second.
+Mirage Crown
+Disabled
+	Gain a Mirage Emblem, a Hand of Justice, and a Nunu.
+Mystic Soul
+Disabled
+	Your team counts as having 1 additional Mystic. Gain a Spear of Shojin and a Lulu.
+New Recruit
+Disabled
+	Gain +1 maximum team size.
+Preparation III
+Disabled
+	Champions on your bench permanently gain 12 Attack Damage and Ability Power every round, up to 48.
+Radiant Relics
+Disabled
+	Open an Armory and choose 1 of 5 unique Radiant items.
+Ragewing Crown
+Disabled
+	Gain a Ragewing Emblem, a Guinsoo's Rageblade, and a Swain.
+Revel Crown
+Disabled
+	Gain a Revel Emblem and a Jinx.
+Scalescorn Crown
+Disabled
+	Gain a Scalescorn Emblem, a Hand of Justice, and a Diana.
+Shapeshifter Soul
+Disabled
+	Your team counts as having 1 additional Shapeshifter. Gain a Sunfire Cape and an Elise.
+Shimmerscale Soul
+Disabled
+	Your team counts as having 1 additional Shimmerscale. Gain a Titan's Resolve and a Volibear.
+Stand United III
+Disabled
+	Your units gain 3 Attack Damage and Ability Power per Trait active across your army.
+Swiftshot Crown
+Disabled
+	Gain a Swiftshot Emblem, a Guinsoo's Rageblade, and a Varus.
+Tempest Crown
+Disabled
+	Gain a Tempest Emblem, a Statikk Shiv, and a Lee Sin.
+The Golden Egg
+Disabled
+	Gain a massive golden egg that hatches in 11 turns. If you won vs player, receive bonus turn.
+Think Fast
+Disabled
+	Shop refreshes are free until the end of this round. Traits and other augments do not benefit from these free shops. Gain 8 gold.
+Tri Force III
+Disabled
+	Your Tier 3 champions gain 333 Health, 33 starting Mana, and 33% Attack Speed.
+Urf's Grab Bag II
+Disabled
+	Gain 1 Spatula and 3 random item components.
+Verdant Veil
+Disabled
+	Your units are immune to crowd control effects for the first 15 seconds of combat.
+Warrior Crown
+Disabled
+	Gain a Warrior Emblem, a Giant Slayer, and an Yone.
+Whispers Crown
+Disabled
+	Gain a Whispers Emblem, a Titan's Resolve, and an Sylas.
+Windfall
+Disabled
+	Gain 25 gold.
+Windfall+
+Disabled
+	Gain 35 gold.
+Windfall++
+Disabled
+	Gain 45 gold.
+Wise Spending
+Disabled
+	Gain 2 experience points when you refresh your Shop.
